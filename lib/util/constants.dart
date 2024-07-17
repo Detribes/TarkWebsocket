@@ -1,0 +1,1 @@
+const String BASE_URL = "wss://stream.binance.com:9443/ws";
